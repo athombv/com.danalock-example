@@ -1,0 +1,26 @@
+{
+	"name": "com.danalock",
+	"version": "2.0.0",
+	"description": "This app adds support for the Z-wave devices made by Danalock(https://danalock.com/).",
+	"main": "app.js",
+	"requires": true,
+	"dependencies": {
+		"homey-log": "^1.0.5",
+		"homey-meshdriver": "^1.3.16"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"run": "homeyConfig compose && athom project --run",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/athombv/com.danalock.git"
+	},
+	"author": "Marco Ruiter",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/athombv/com.danalock/issues"
+	},
+	"homepage": "https://forum.athom.com/discussion/3908/app-z-wave-danalock-doorlock-z-wave-devices-main-discussion-topic"
+}

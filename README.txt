@@ -1,0 +1,1 @@
+Let Homey talk with the Z-Wave versions of the Danalock V2 and V3 devices. Before installation please refer to the device's manual for installation and calibration instructions.
