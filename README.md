@@ -6,4 +6,4 @@ Read the [Homey Apps SDK Documentation](https://apps.developer.homey.app) for mo
 > Because this repository is a clone of the live code, pull requests will be ignored.
 
 ## What does this app do?
-This app enables Homey to talk with the Z-Wave versions of the Danalock V2 and V3 devices by using the Z-Wave Homey plugin.
+This app enables Homey to talk with the Z-Wave versions of the Danalock V2 and V3 devices by using the Z-Wave Homey plugin. Read more about Z-Wave development at https://apps.developer.homey.app/wireless/z-wave.
